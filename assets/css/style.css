@@ -201,6 +201,10 @@ button:focus {
   margin-bottom: 20px;
   border-radius: 20px;
 }
+.service_container .service_items .service_items-item a {
+  text-decoration: none;
+  color: #000000;
+}
 .service_container .service_items .service_items-item:last-child {
   margin-bottom: 0;
 }
